@@ -1,0 +1,7 @@
+                           Earth	         Jupiter
+Diameter:	         12,742 km	        139,822 km
+Mass:	              5.97 × 10^24 kg	      1.90 × 10^27 kg
+Moons:	                     1	                    79
+Distance from Sun:    149,598,262 km	      778,340,821 km
+Length of Year:	        365.24 days	     4,333 Earth days
+Temperature:	       -88 to 58°C	          -108°C

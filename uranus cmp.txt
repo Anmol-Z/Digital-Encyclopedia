@@ -1,0 +1,7 @@
+	                    Earth	         Uranus
+Diameter:	          12,756 km	        51,118 km
+Mass:	                5.97 × 10^24 kg	      86.8× 10^24 kg
+Moons:	                      1	                   27
+Distance from Sun:      149,598,262 km	    2,870,658,186 km
+Length of Year:	         365.24 days	     30,687 Earth days
+Temperature:	             15°C	         -195°C

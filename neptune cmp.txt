@@ -1,0 +1,7 @@
+                            Earth         	 Neptune
+Diameter:	          12,756 km	        49,528 km
+Mass:	              5.97 × 10^24 kg	      102× 10^24 kg
+Moons:	                      1                	   14
+Distance from Sun:     149,598,262 km	     4,498,396,441 km
+Length of Year:	         365.24 days	     60,190 Earth days
+Temperature:	             15°C	         -200°C

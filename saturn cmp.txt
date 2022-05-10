@@ -1,0 +1,7 @@
+	                    Earth	         Saturn
+Diameter:	          12,756 km	       120,536 km
+Mass:	               5.97 × 10^24 kg	      568× 10^24 kg
+Moons:	                     1	                   82
+Distance from Sun:     149,598,262 km	     1,426,666,422 km
+Length of Year:	         365.24 days	    10,756 Earth days
+Temperature:	            15°C	         -140°C

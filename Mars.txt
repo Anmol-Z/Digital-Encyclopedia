@@ -1,0 +1,33 @@
+General Information About Mars:
+
+Gravity: 3.711 m/s^2
+Distance from Sun: 227.9 million km
+Radius: 3,389.5 km
+Surface pressure: 0.636 (0.4–0.87) kPa; 0.00628 atm
+Moons: Phobos, Deimos
+
+Description:
+
+The planet Mars is situated further from the Sun than the other three terrestrial planets of the so-
+lar system. It is almost 10 times less massive than the Earth and Venus,but has about twice the mass
+of Mercurcy. Like the other terrestrial planets, Mars formed hot and quickly differentiated into three
+different reservoirs: an iron core, a silicate mantle, and a silicate crust. 
+Althou heat is constantly generated inside its mantle and crust by the decay of radioactive isotopes, 
+Mars slowly cooled over the last 4 Gyr. Mars is a cold desert world.It is half the size of Earth.Mars
+is sometimes called the Red Planet. It's red because of rusty iron in the ground.Like Earth,Mars has
+seasons, polar ice caps, volcanoes, canyons and weather. It has a very thin atmosphere made of carbon 
+dioxide, nitrogen, and argon. There are signs of ancient floods on Mars,  but now water mostly exists 
+in icy dirt and thin clouds.On some Martian hillsides, there is evidence of liquid salty water in the
+ground.
+
+The planet Mars is situated further from the Sun than the other three terrestrial planets of the so-
+lar system. It is almost 10 times less massive than the Earth and Venus,but has about twice the mass
+of Mercurcy. Like the other terrestrial planets, Mars formed hot and quickly differentiated into three
+different reservoirs: an iron core, a silicate mantle, and a silicate crust. 
+Althou heat is constantly generated inside its mantle and crust by the decay of radioactive isotopes, 
+Mars slowly cooled over the last 4 Gyr. Mars is a cold desert world.It is half the size of Earth.Mars
+is sometimes called the Red Planet. It's red because of rusty iron in the ground.Like Earth,Mars has
+seasons, polar ice caps, volcanoes,canyons and weather. It has a very thin atmosphere made of carbon 
+dioxide, nitrogen, and argon.There are signs of ancient floods on Mars,  but now water mostly exists 
+in icy dirt and thin clouds. On some Martian hillsides,there is evidence of liquid salty water in the
+ground.

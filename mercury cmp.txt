@@ -1,0 +1,7 @@
+	                   Mercury	          Earth
+Diameter:	          4,879 km	        12,756 km
+Mass:	               0.33× 10^24 kg	     5.97 × 10^24 kg
+Moons:	                      0	                    1
+Distance from Sun:	57,909,227 km	      149,598,262 km
+Length of Year:	        88 Earth days	       365.24 days
+Temperature:	            167°C	           15°C
